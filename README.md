@@ -1,2 +1,2 @@
 # myLeetcode
-c++, JavaScript, Java and Python
+C++, JavaScript, Java and Python
